@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class BaseTest {
 
-    private static final String BASE_URL = "https://www.saucedemo.com/";
+    private static final String BASE_URL = "";
     private WebDriver driver;
 
 
