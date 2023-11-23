@@ -13,4 +13,8 @@ public class CartPage {
     @FindBy(className = "shopping_cart")
     WebElement cart;
 
+    @FindBy(className = "icon-trash")
+    WebElement trash;
+    
+
 }
