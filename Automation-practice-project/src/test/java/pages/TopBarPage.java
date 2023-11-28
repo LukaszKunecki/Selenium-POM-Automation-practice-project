@@ -1,6 +1,5 @@
 package pages;
 
-import org.junit.jupiter.api.ClassOrderer;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -16,4 +15,6 @@ public class TopBarPage {
 
     @FindBy(className = "header_user_info")
     WebElement signIn;
+
+    public
 }
