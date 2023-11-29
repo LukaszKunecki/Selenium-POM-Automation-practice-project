@@ -16,5 +16,4 @@ public class TopBarPage {
     @FindBy(className = "header_user_info")
     WebElement signIn;
 
-    public
 }
