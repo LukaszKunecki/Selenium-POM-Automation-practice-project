@@ -10,5 +10,6 @@ public class TshirtsMenuPage {
         PageFactory.initElements(driver, this);
     }
 
-    @FindBy()
+    @FindBy(id ="layered_id_attribute_group_1")
+    WebElement sizeS;
 }
