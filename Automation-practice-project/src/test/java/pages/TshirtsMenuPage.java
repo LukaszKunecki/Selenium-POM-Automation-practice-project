@@ -12,4 +12,12 @@ public class TshirtsMenuPage {
 
     @FindBy(id ="layered_id_attribute_group_1")
     WebElement sizeS;
+
+    @FindBy(id ="layered_id_attribute_group_2")
+    WebElement sizeM;
+
+    @FindBy(id ="layered_id_attribute_group_3")
+    WebElement sizeL;
+
+
 }
